@@ -4,7 +4,6 @@
 Simple overview of use/purpose.
 
 ## Demo
-![](dogRequest.gif)
 ![me](https://github.com/kayabliss/DogRequest/blob/master/dogRequest.gif)
 
 
