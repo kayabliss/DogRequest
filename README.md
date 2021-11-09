@@ -4,7 +4,7 @@
 Simple overview of use/purpose.
 
 ## Demo
-![me](https://github.com/kayabliss/DogRequest/blob/master/dogRequest.gif)
+![me]("https://github.com/kayabliss/DogRequest/blob/master/dogRequest.gif width="200" height="400")
 
 
 ## Description
