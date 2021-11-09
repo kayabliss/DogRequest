@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DogRequest</string>
+    <string name="check_me_out">Check me out</string>
+    <string name="name">Name</string>
+</resources>
